@@ -2,4 +2,4 @@
 
 ## Counties
 ### Milwaukee
-* [Github Ward level data](https://github.com/ErickShepherd/milwaukee_2020_presidential_election_data)
+* Raw data obtained from https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/Election-Results-Fall-2020
